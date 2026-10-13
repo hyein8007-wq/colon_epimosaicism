@@ -1,0 +1,421 @@
+sampleID	patientID	age	sex	location	WGS	EM_seq
+D1-1	HC50	64	F	descending and sigmoid	Y	Y
+D1-10	HC50	64	F	descending and sigmoid	Y	Y
+D1-12	HC50	64	F	descending and sigmoid	Y	Y
+D1-13	HC50	64	F	descending and sigmoid	Y	Y
+D1-14	HC50	64	F	descending and sigmoid	Y	Y
+D1-15	HC50	64	F	descending and sigmoid	Y	Y
+D1-17	HC50	64	F	descending and sigmoid	Y	N
+D1-18	HC50	64	F	descending and sigmoid	Y	Y
+D1-19	HC50	64	F	descending and sigmoid	Y	Y
+D1-2	HC50	64	F	descending and sigmoid	Y	Y
+D1-20	HC50	64	F	descending and sigmoid	Y	Y
+D1-21	HC50	64	F	descending and sigmoid	Y	Y
+D1-22	HC50	64	F	descending and sigmoid	Y	Y
+D1-23	HC50	64	F	descending and sigmoid	Y	Y
+D1-24	HC50	64	F	descending and sigmoid	Y	Y
+D1-25	HC50	64	F	descending and sigmoid	Y	Y
+D1-27	HC50	64	F	descending and sigmoid	Y	Y
+D1-28	HC50	64	F	descending and sigmoid	Y	Y
+D1-29	HC50	64	F	descending and sigmoid	Y	Y
+D1-3	HC50	64	F	descending and sigmoid	Y	Y
+D1-30	HC50	64	F	descending and sigmoid	Y	Y
+D1-31	HC50	64	F	descending and sigmoid	Y	Y
+D1-32	HC50	64	F	descending and sigmoid	Y	Y
+D1-33	HC50	64	F	descending and sigmoid	Y	Y
+D1-34	HC50	64	F	descending and sigmoid	Y	Y
+D1-35	HC50	64	F	descending and sigmoid	Y	Y
+D1-4	HC50	64	F	descending and sigmoid	Y	Y
+D1-5	HC50	64	F	descending and sigmoid	Y	Y
+D1-6	HC50	64	F	descending and sigmoid	Y	Y
+D1-7	HC50	64	F	descending and sigmoid	Y	Y
+D1-8	HC50	64	F	descending and sigmoid	Y	Y
+D1-9	HC50	64	F	descending and sigmoid	Y	N
+D2-1	HC50	64	F	descending and sigmoid	Y	Y
+D2-10	HC50	64	F	descending and sigmoid	Y	Y
+D2-11	HC50	64	F	descending and sigmoid	Y	Y
+D2-12	HC50	64	F	descending and sigmoid	Y	Y
+D2-13	HC50	64	F	descending and sigmoid	Y	Y
+D2-14	HC50	64	F	descending and sigmoid	Y	Y
+D2-15	HC50	64	F	descending and sigmoid	Y	Y
+D2-16	HC50	64	F	descending and sigmoid	Y	Y
+D2-2	HC50	64	F	descending and sigmoid	Y	Y
+D2-21	HC50	64	F	descending and sigmoid	Y	Y
+D2-22	HC50	64	F	descending and sigmoid	Y	Y
+D2-3	HC50	64	F	descending and sigmoid	Y	Y
+D2-4	HC50	64	F	descending and sigmoid	Y	Y
+D2-5	HC50	64	F	descending and sigmoid	Y	Y
+D2-50	HC50	64	F	descending and sigmoid	Y	Y
+D2-52	HC50	64	F	descending and sigmoid	Y	Y
+D2-53	HC50	64	F	descending and sigmoid	Y	Y
+D2-6	HC50	64	F	descending and sigmoid	Y	Y
+D2-7	HC50	64	F	descending and sigmoid	Y	Y
+D2-8	HC50	64	F	descending and sigmoid	Y	Y
+D2-9	HC50	64	F	descending and sigmoid	Y	Y
+D3-1	HC50	64	F	descending and sigmoid	Y	Y
+D3-10	HC50	64	F	descending and sigmoid	Y	Y
+D3-11	HC50	64	F	descending and sigmoid	Y	Y
+D3-12	HC50	64	F	descending and sigmoid	Y	Y
+D3-13	HC50	64	F	descending and sigmoid	Y	Y
+D3-14	HC50	64	F	descending and sigmoid	Y	Y
+D3-15	HC50	64	F	descending and sigmoid	Y	Y
+D3-16	HC50	64	F	descending and sigmoid	Y	Y
+D3-17	HC50	64	F	descending and sigmoid	Y	Y
+D3-2	HC50	64	F	descending and sigmoid	Y	N
+D3-20	HC50	64	F	descending and sigmoid	Y	Y
+D3-21	HC50	64	F	descending and sigmoid	Y	Y
+D3-22	HC50	64	F	descending and sigmoid	Y	N
+D3-23	HC50	64	F	descending and sigmoid	Y	Y
+D3-24	HC50	64	F	descending and sigmoid	Y	Y
+D3-25	HC50	64	F	descending and sigmoid	Y	Y
+D3-26	HC50	64	F	descending and sigmoid	Y	Y
+D3-27	HC50	64	F	descending and sigmoid	Y	Y
+D3-28	HC50	64	F	descending and sigmoid	Y	Y
+D3-29	HC50	64	F	descending and sigmoid	Y	Y
+D3-3	HC50	64	F	descending and sigmoid	Y	Y
+D3-4	HC50	64	F	descending and sigmoid	Y	Y
+D3-5	HC50	64	F	descending and sigmoid	Y	N
+D3-6	HC50	64	F	descending and sigmoid	Y	Y
+D3-7	HC50	64	F	descending and sigmoid	Y	Y
+D3-8	HC50	64	F	descending and sigmoid	Y	Y
+DS-1	HC50	64	F	descending and sigmoid	Y	Y
+DS-2	HC50	64	F	descending and sigmoid	Y	N
+DS-3	HC50	64	F	descending and sigmoid	Y	Y
+DS-4	HC50	64	F	descending and sigmoid	Y	N
+DS-5	HC50	64	F	descending and sigmoid	Y	Y
+DS-6	HC50	64	F	descending and sigmoid	Y	Y
+DS-7	HC50	64	F	descending and sigmoid	Y	Y
+DS-8	HC50	64	F	descending and sigmoid	Y	Y
+DS-9	HC50	64	F	descending and sigmoid	Y	Y
+HC01-02	HC01	61	M	rectosigmoid	Y	Y
+HC01-03	HC01	61	M	rectosigmoid	Y	Y
+HC01-04	HC01	61	M	rectosigmoid	Y	Y
+HC01-05	HC01	61	M	rectosigmoid	Y	Y
+HC01-06	HC01	61	M	rectosigmoid	Y	Y
+HC01-07	HC01	61	M	rectosigmoid	Y	Y
+HC01-08	HC01	61	M	rectosigmoid	Y	Y
+HC01-09	HC01	61	M	rectosigmoid	Y	Y
+HC01-10	HC01	61	M	rectosigmoid	Y	Y
+HC01-11	HC01	61	M	rectosigmoid	Y	Y
+HC01-12	HC01	61	M	rectosigmoid	Y	Y
+HC01-13	HC01	61	M	rectosigmoid	Y	Y
+HC01-14	HC01	61	M	rectosigmoid	Y	Y
+HC01-15	HC01	61	M	rectosigmoid	Y	Y
+HC01-16	HC01	61	M	rectosigmoid	Y	Y
+HC01-17	HC01	61	M	rectosigmoid	Y	Y
+HC01-18	HC01	61	M	rectosigmoid	Y	Y
+HC01-19	HC01	61	M	rectosigmoid	Y	Y
+HC01-20	HC01	61	M	rectosigmoid	Y	Y
+HC01-21	HC01	61	M	rectosigmoid	Y	Y
+HC02-01	HC02	77	M	sigmoid	Y	Y
+HC02-02	HC02	77	M	sigmoid	Y	Y
+HC02-03	HC02	77	M	sigmoid	Y	Y
+HC02-04	HC02	77	M	sigmoid	Y	Y
+HC02-05	HC02	77	M	sigmoid	Y	Y
+HC02-06	HC02	77	M	sigmoid	Y	Y
+HC02-07	HC02	77	M	sigmoid	Y	Y
+HC02-08	HC02	77	M	sigmoid	Y	Y
+HC02-09	HC02	77	M	sigmoid	Y	Y
+HC02-10	HC02	77	M	sigmoid	Y	Y
+HC02-11	HC02	77	M	sigmoid	Y	Y
+HC02-12	HC02	77	M	sigmoid	Y	Y
+HC02-13	HC02	77	M	sigmoid	Y	Y
+HC02-14	HC02	77	M	sigmoid	Y	Y
+HC02-15	HC02	77	M	sigmoid	Y	Y
+HC02-16	HC02	77	M	sigmoid	Y	Y
+HC02-17	HC02	77	M	sigmoid	Y	Y
+HC02-18	HC02	77	M	sigmoid	Y	Y
+HC02-19	HC02	77	M	sigmoid	Y	Y
+HC02-20	HC02	77	M	sigmoid	Y	Y
+HC02-21	HC02	77	M	sigmoid	Y	Y
+HC02-22	HC02	77	M	sigmoid	Y	Y
+HC08-01	HC08	53	F	sigmoid	Y	Y
+HC08-03	HC08	53	F	sigmoid	Y	Y
+HC08-04	HC08	53	F	sigmoid	Y	Y
+HC08-05	HC08	53	F	sigmoid	Y	Y
+HC08-06	HC08	53	F	sigmoid	Y	Y
+HC08-07	HC08	53	F	sigmoid	Y	Y
+HC08-08	HC08	53	F	sigmoid	Y	Y
+HC08-09	HC08	53	F	sigmoid	Y	Y
+HC08-10	HC08	53	F	sigmoid	Y	Y
+HC08-11	HC08	53	F	sigmoid	Y	Y
+HC08-12	HC08	53	F	sigmoid	Y	Y
+HC08-13	HC08	53	F	sigmoid	Y	Y
+HC08-14	HC08	53	F	sigmoid	Y	Y
+HC08-15	HC08	53	F	sigmoid	Y	Y
+HC08-16	HC08	53	F	sigmoid	Y	Y
+HC08-17	HC08	53	F	sigmoid	Y	Y
+HC08-18	HC08	53	F	sigmoid	Y	Y
+HC08-19	HC08	53	F	sigmoid	Y	Y
+HC08-20	HC08	53	F	sigmoid	Y	Y
+HC08-21	HC08	53	F	sigmoid	Y	Y
+HC08-22	HC08	53	F	sigmoid	Y	Y
+HC08-23	HC08	53	F	sigmoid	Y	Y
+HC09-01	HC09	65	M	rectosigmoid	Y	Y
+HC09-02	HC09	65	M	rectosigmoid	Y	Y
+HC09-03	HC09	65	M	rectosigmoid	Y	Y
+HC09-04	HC09	65	M	rectosigmoid	Y	Y
+HC09-05	HC09	65	M	rectosigmoid	Y	Y
+HC09-06	HC09	65	M	rectosigmoid	Y	Y
+HC09-07	HC09	65	M	rectosigmoid	Y	Y
+HC09-08	HC09	65	M	rectosigmoid	Y	Y
+HC09-09	HC09	65	M	rectosigmoid	Y	Y
+HC09-10	HC09	65	M	rectosigmoid	Y	Y
+HC09-11	HC09	65	M	rectosigmoid	Y	Y
+HC09-12	HC09	65	M	rectosigmoid	Y	Y
+HC09-13	HC09	65	M	rectosigmoid	Y	Y
+HC09-14	HC09	65	M	rectosigmoid	Y	Y
+HC09-15	HC09	65	M	rectosigmoid	Y	Y
+HC09-16	HC09	65	M	rectosigmoid	Y	Y
+HC09-17	HC09	65	M	rectosigmoid	Y	Y
+HC09-18	HC09	65	M	rectosigmoid	Y	Y
+HC09-19	HC09	65	M	rectosigmoid	Y	Y
+HC09-20	HC09	65	M	rectosigmoid	Y	Y
+HC09-21	HC09	65	M	rectosigmoid	Y	Y
+HC10-01	HC10	37	M	transverse	Y	Y
+HC10-02	HC10	37	M	transverse	Y	Y
+HC10-03	HC10	37	M	transverse	Y	Y
+HC10-04	HC10	37	M	transverse	Y	Y
+HC10-05	HC10	37	M	transverse	Y	Y
+HC10-06	HC10	37	M	transverse	Y	Y
+HC10-07	HC10	37	M	transverse	Y	Y
+HC10-08	HC10	37	M	transverse	Y	Y
+HC10-09	HC10	37	M	transverse	Y	Y
+HC10-10	HC10	37	M	transverse	Y	Y
+HC10-11	HC10	37	M	transverse	Y	Y
+HC10-12	HC10	37	M	transverse	Y	Y
+HC10-13	HC10	37	M	transverse	Y	Y
+HC10-14	HC10	37	M	transverse	Y	Y
+HC10-15	HC10	37	M	transverse	Y	Y
+HC10-16	HC10	37	M	transverse	Y	Y
+HC10-17	HC10	37	M	transverse	Y	Y
+HC10-18	HC10	37	M	transverse	Y	Y
+HC10-19	HC10	37	M	transverse	Y	Y
+HC10-20	HC10	37	M	transverse	Y	Y
+HC12-03	HC12	84	F	cecal	Y	Y
+HC12-04	HC12	84	F	cecal	Y	Y
+HC12-05	HC12	84	F	cecal	Y	Y
+HC12-07	HC12	84	F	cecal	Y	Y
+HC12-14	HC12	84	F	cecal	Y	Y
+HC12-15	HC12	84	F	cecal	Y	Y
+HC12-16	HC12	84	F	cecal	Y	Y
+HC12-17	HC12	84	F	cecal	Y	Y
+HC12-12	HC12	84	F	cecal	Y	Y
+HC12-08	HC12	84	F	cecal	Y	Y
+HC12-09	HC12	84	F	cecal	Y	Y
+HC12-10	HC12	84	F	cecal	Y	Y
+HC12-11	HC12	84	F	cecal	Y	Y
+HC12-18	HC12	84	F	cecal	Y	Y
+HC12-19	HC12	84	F	cecal	Y	Y
+HC12-20	HC12	84	F	cecal	Y	Y
+HC12-21	HC12	84	F	cecal	Y	Y
+HC12-22	HC12	84	F	cecal	Y	Y
+HC12-23	HC12	84	F	cecal	Y	Y
+HC12-24	HC12	84	F	cecal	Y	Y
+HC14-01	HC14	46	F	.	Y	Y
+HC14-03	HC14	46	F	.	Y	Y
+HC14-04	HC14	46	F	.	Y	Y
+HC14-05	HC14	46	F	.	Y	Y
+HC14-11	HC14	46	F	.	Y	Y
+HC14-12	HC14	46	F	.	Y	Y
+HC14-13	HC14	46	F	.	Y	Y
+HC14-14	HC14	46	F	.	Y	Y
+HC14-16	HC14	46	F	.	Y	Y
+HC14-17	HC14	46	F	.	Y	Y
+HC15-01	HC15	56	F	rectosigmoid	Y	Y
+HC15-02	HC15	56	F	rectosigmoid	Y	Y
+HC15-03	HC15	56	F	rectosigmoid	Y	Y
+HC15-04	HC15	56	F	rectosigmoid	Y	Y
+HC15-05	HC15	56	F	rectosigmoid	Y	Y
+HC15-06	HC15	56	F	rectosigmoid	Y	Y
+HC15-07	HC15	56	F	rectosigmoid	Y	Y
+HC15-08	HC15	56	F	rectosigmoid	Y	Y
+HC15-09	HC15	56	F	rectosigmoid	Y	Y
+HC15-10	HC15	56	F	rectosigmoid	Y	Y
+HC15-11	HC15	56	F	rectosigmoid	Y	Y
+HC15-12	HC15	56	F	rectosigmoid	Y	Y
+HC15-13	HC15	56	F	rectosigmoid	Y	Y
+HC15-14	HC15	56	F	rectosigmoid	Y	Y
+HC15-15	HC15	56	F	rectosigmoid	Y	Y
+HC15-16	HC15	56	F	rectosigmoid	Y	Y
+HC15-17	HC15	56	F	rectosigmoid	Y	Y
+HC15-18	HC15	56	F	rectosigmoid	Y	Y
+HC15-19	HC15	56	F	rectosigmoid	Y	Y
+HC15-20	HC15	56	F	rectosigmoid	Y	Y
+HC15-21	HC15	56	F	rectosigmoid	Y	Y
+HC15-22	HC15	56	F	rectosigmoid	Y	Y
+HC15-23	HC15	56	F	rectosigmoid	Y	Y
+HC16-01	HC16	63	F	ascending	Y	Y
+HC16-02	HC16	63	F	ascending	Y	Y
+HC16-03	HC16	63	F	ascending	Y	Y
+HC16-04	HC16	63	F	ascending	Y	Y
+HC16-05	HC16	63	F	ascending	Y	Y
+HC16-06	HC16	63	F	ascending	Y	Y
+HC16-07	HC16	63	F	ascending	Y	Y
+HC16-08	HC16	63	F	ascending	Y	Y
+HC16-09	HC16	63	F	ascending	Y	Y
+HC16-10	HC16	63	F	ascending	Y	Y
+HC16-11	HC16	63	F	ascending	Y	Y
+HC16-12	HC16	63	F	ascending	Y	Y
+HC16-13	HC16	63	F	ascending	Y	Y
+HC16-14	HC16	63	F	ascending	Y	Y
+HC16-15	HC16	63	F	ascending	Y	Y
+HC16-16	HC16	63	F	ascending	Y	Y
+HC16-17	HC16	63	F	ascending	Y	Y
+HC16-18	HC16	63	F	ascending	Y	Y
+HC16-19	HC16	63	F	ascending	Y	Y
+HC16-20	HC16	63	F	ascending	N	Y
+HC17-01	HC17	64	F	descending	Y	Y
+HC17-02	HC17	64	F	descending	Y	Y
+HC17-03	HC17	64	F	descending	Y	Y
+HC17-04	HC17	64	F	descending	Y	Y
+HC17-05	HC17	64	F	descending	Y	Y
+HC17-06	HC17	64	F	descending	N	Y
+HC17-07	HC17	64	F	descending	Y	Y
+HC17-08	HC17	64	F	descending	Y	Y
+HC17-09	HC17	64	F	descending	N	Y
+HC17-10	HC17	64	F	descending	N	Y
+HC17-11	HC17	64	F	descending	N	Y
+HC17-12	HC17	64	F	descending	Y	Y
+HC17-13	HC17	64	F	descending	Y	Y
+HC17-14	HC17	64	F	descending	N	Y
+HC17-15	HC17	64	F	descending	Y	Y
+HC17-16	HC17	64	F	descending	Y	Y
+HC17-17	HC17	64	F	descending	Y	Y
+HC17-18	HC17	64	F	descending	Y	Y
+HC17-19	HC17	64	F	descending	Y	Y
+HC18-03	HC18	66	F	cecal	Y	Y
+HC18-04	HC18	66	F	cecal	N	Y
+HC18-05	HC18	66	F	cecal	Y	Y
+HC18-07	HC18	66	F	cecal	Y	Y
+HC18-09	HC18	66	F	cecal	Y	Y
+HC18-10	HC18	66	F	cecal	Y	Y
+HC18-11	HC18	66	F	cecal	Y	Y
+HC18-12	HC18	66	F	cecal	Y	Y
+HC18-13	HC18	66	F	cecal	Y	Y
+HC18-14	HC18	66	F	cecal	Y	Y
+HC18-15	HC18	66	F	cecal	Y	Y
+HC18-16	HC18	66	F	cecal	Y	Y
+HC18-17	HC18	66	F	cecal	Y	Y
+HC18-18	HC18	66	F	cecal	Y	Y
+HC18-19	HC18	66	F	cecal	Y	Y
+HC18-20	HC18	66	F	cecal	Y	Y
+HC19-01	HC19	73	M	ascending	Y	Y
+HC19-02	HC19	73	M	ascending	Y	Y
+HC19-03	HC19	73	M	ascending	Y	Y
+HC19-04	HC19	73	M	ascending	Y	Y
+HC19-05	HC19	73	M	ascending	Y	Y
+HC19-06	HC19	73	M	ascending	Y	Y
+HC19-07	HC19	73	M	ascending	Y	Y
+HC19-08	HC19	73	M	ascending	Y	Y
+HC19-09	HC19	73	M	ascending	Y	Y
+HC19-10	HC19	73	M	ascending	Y	Y
+HC19-11	HC19	73	M	ascending	Y	Y
+HC19-12	HC19	73	M	ascending	Y	Y
+HC19-13	HC19	73	M	ascending	Y	Y
+HC19-14	HC19	73	M	ascending	Y	Y
+HC19-15	HC19	73	M	ascending	Y	Y
+HC19-16	HC19	73	M	ascending	Y	Y
+HC19-17	HC19	73	M	ascending	Y	Y
+HC19-18	HC19	73	M	ascending	Y	Y
+HC19-19	HC19	73	M	ascending	Y	Y
+HC19-20	HC19	73	M	ascending	Y	Y
+HC19-21	HC19	73	M	ascending	Y	Y
+HC19-22	HC19	73	M	ascending	Y	Y
+HC19-23	HC19	73	M	ascending	Y	Y
+HC20-01	HC20	45	F	sigmoid	Y	Y
+HC20-02	HC20	45	F	sigmoid	Y	Y
+HC20-03	HC20	45	F	sigmoid	Y	Y
+HC20-04	HC20	45	F	sigmoid	Y	Y
+HC20-05	HC20	45	F	sigmoid	Y	Y
+HC20-06	HC20	45	F	sigmoid	Y	Y
+HC20-07	HC20	45	F	sigmoid	Y	Y
+HC20-08	HC20	45	F	sigmoid	Y	Y
+HC20-09	HC20	45	F	sigmoid	Y	Y
+HC20-10	HC20	45	F	sigmoid	Y	Y
+HC20-11	HC20	45	F	sigmoid	Y	Y
+HC20-12	HC20	45	F	sigmoid	Y	Y
+HC20-13	HC20	45	F	sigmoid	Y	Y
+HC20-14	HC20	45	F	sigmoid	Y	Y
+HC20-15	HC20	45	F	sigmoid	Y	Y
+HC20-16	HC20	45	F	sigmoid	Y	Y
+HC20-17	HC20	45	F	sigmoid	Y	Y
+HC20-18	HC20	45	F	sigmoid	Y	Y
+HC20-19	HC20	45	F	sigmoid	Y	Y
+HC20-21	HC20	45	F	sigmoid	Y	Y
+HC20-20	HC20	45	F	sigmoid	Y	Y
+HC20-22	HC20	45	F	sigmoid	Y	Y
+HC21-01	HC21	52	F	sigmoid	Y	Y
+HC21-02	HC21	52	F	sigmoid	Y	Y
+HC21-03	HC21	52	F	sigmoid	Y	Y
+HC21-04	HC21	52	F	sigmoid	Y	Y
+HC21-05	HC21	52	F	sigmoid	Y	Y
+HC21-06	HC21	52	F	sigmoid	Y	Y
+HC21-07	HC21	52	F	sigmoid	Y	Y
+HC21-08	HC21	52	F	sigmoid	Y	Y
+HC21-09	HC21	52	F	sigmoid	Y	Y
+HC21-10	HC21	52	F	sigmoid	Y	Y
+HC21-11	HC21	52	F	sigmoid	Y	Y
+HC21-12	HC21	52	F	sigmoid	Y	Y
+HC21-13	HC21	52	F	sigmoid	Y	Y
+HC21-14	HC21	52	F	sigmoid	Y	Y
+HC21-15	HC21	52	F	sigmoid	Y	Y
+HC21-16	HC21	52	F	sigmoid	Y	Y
+HC21-17	HC21	52	F	sigmoid	Y	Y
+HC21-18	HC21	52	F	sigmoid	Y	Y
+HC21-19	HC21	52	F	sigmoid	Y	Y
+HC21-20	HC21	52	F	sigmoid	Y	Y
+HC21-21	HC21	52	F	sigmoid	Y	Y
+HC21-22	HC21	52	F	sigmoid	Y	Y
+HC21-23	HC21	52	F	sigmoid	Y	Y
+MS-1	HC50	64	F	descending and sigmoid	Y	Y
+MS-2	HC50	64	F	descending and sigmoid	Y	Y
+MS-3	HC50	64	F	descending and sigmoid	Y	Y
+MS-4	HC50	64	F	descending and sigmoid	Y	Y
+MS-5	HC50	64	F	descending and sigmoid	Y	Y
+MS-6	HC50	64	F	descending and sigmoid	Y	Y
+PS-1	HC50	64	F	descending and sigmoid	Y	Y
+PS-10	HC50	64	F	descending and sigmoid	Y	Y
+PS-14	HC50	64	F	descending and sigmoid	Y	Y
+PS-15	HC50	64	F	descending and sigmoid	Y	Y
+PS-16	HC50	64	F	descending and sigmoid	Y	Y
+PS-17	HC50	64	F	descending and sigmoid	Y	Y
+PS-18	HC50	64	F	descending and sigmoid	Y	Y
+PS-19	HC50	64	F	descending and sigmoid	Y	Y
+PS-2	HC50	64	F	descending and sigmoid	Y	Y
+PS-20	HC50	64	F	descending and sigmoid	Y	Y
+PS-21	HC50	64	F	descending and sigmoid	Y	Y
+PS-22	HC50	64	F	descending and sigmoid	Y	Y
+PS-23	HC50	64	F	descending and sigmoid	Y	Y
+PS-24	HC50	64	F	descending and sigmoid	Y	Y
+PS-25	HC50	64	F	descending and sigmoid	Y	Y
+PS-26	HC50	64	F	descending and sigmoid	Y	Y
+PS-27	HC50	64	F	descending and sigmoid	Y	Y
+PS-3	HC50	64	F	descending and sigmoid	Y	Y
+PS-4	HC50	64	F	descending and sigmoid	Y	Y
+PS-5	HC50	64	F	descending and sigmoid	Y	Y
+PS-6	HC50	64	F	descending and sigmoid	Y	Y
+PS-8	HC50	64	F	descending and sigmoid	Y	Y
+PS-9	HC50	64	F	descending and sigmoid	Y	Y
+HC13-01	HC13	71	M	hepatic flexure	Y	Y
+HC13-02	HC13	71	M	hepatic flexure	Y	Y
+HC13-03	HC13	71	M	hepatic flexure	Y	Y
+HC13-04	HC13	71	M	hepatic flexure	Y	Y
+HC13-05	HC13	71	M	hepatic flexure	Y	Y
+HC13-06	HC13	71	M	hepatic flexure	Y	Y
+HC13-07	HC13	71	M	hepatic flexure	Y	Y
+HC13-08	HC13	71	M	hepatic flexure	Y	Y
+HC13-09	HC13	71	M	hepatic flexure	Y	Y
+HC13-10	HC13	71	M	hepatic flexure	Y	Y
+HC13-11	HC13	71	M	hepatic flexure	Y	Y
+HC13-12	HC13	71	M	hepatic flexure	Y	Y
+HC13-13	HC13	71	M	hepatic flexure	Y	Y
+HC13-14	HC13	71	M	hepatic flexure	Y	Y
+HC13-15	HC13	71	M	hepatic flexure	Y	Y
+HC13-16	HC13	71	M	hepatic flexure	Y	Y
+HC13-17	HC13	71	M	hepatic flexure	Y	Y
+HC13-18	HC13	71	M	hepatic flexure	Y	Y
+HC13-19	HC13	71	M	hepatic flexure	Y	Y
+HC13-20	HC13	71	M	hepatic flexure	Y	Y
+HC13-21	HC13	71	M	hepatic flexure	Y	Y
+HC13-22	HC13	71	M	hepatic flexure	Y	Y
